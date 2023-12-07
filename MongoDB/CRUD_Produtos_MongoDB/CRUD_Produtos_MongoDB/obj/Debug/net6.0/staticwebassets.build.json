@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GZJrydaPOjC4Tez7EhrMkuqUN8JquXlQe1BFl6esw1g=",
+  "Source": "CRUD_Produtos_MongoDB",
+  "BasePath": "_content/CRUD_Produtos_MongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

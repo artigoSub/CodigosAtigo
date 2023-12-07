@@ -1,0 +1,85 @@
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/appsettings.json
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB.exe
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB.deps.json
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB.runtimeconfig.json
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/ref/CRUD_Produtos_MongoDB.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB.pdb
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/AWSSDK.Core.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/AWSSDK.SecurityToken.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/DnsClient.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/MongoDB.Bson.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/MongoDB.Driver.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/SharpCompress.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Snappier.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.csproj.AssemblyReference.cache
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.AssemblyInfoInputs.cache
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.AssemblyInfo.cs
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.csproj.CoreCompileInputs.cache
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/scopedcss/bundle/CRUD_Produtos_MongoDB.styles.css
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.csproj.CopyComplete
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/ref/CRUD_Produtos_MongoDB.dll
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.pdb
+C:/Users/Janni/OneDrive/Documentos/Engenharia de Computação/11º Semestre/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.genruntimeconfig.cache
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/appsettings.Development.json
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/appsettings.json
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB.deps.json
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB.runtimeconfig.json
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/CRUD_Produtos_MongoDB.pdb
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/AWSSDK.Core.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/AWSSDK.SecurityToken.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/DnsClient.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/MongoDB.Bson.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/MongoDB.Driver.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/SharpCompress.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Snappier.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/ZstdSharp.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.csproj.AssemblyReference.cache
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.AssemblyInfoInputs.cache
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.AssemblyInfo.cs
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.csproj.CoreCompileInputs.cache
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.MvcApplicationPartsAssemblyInfo.cs
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.MvcApplicationPartsAssemblyInfo.cache
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/staticwebassets/msbuild.CRUD_Produtos_MongoDB.Microsoft.AspNetCore.StaticWebAssets.props
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/staticwebassets/msbuild.build.CRUD_Produtos_MongoDB.props
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CRUD_Produtos_MongoDB.props
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CRUD_Produtos_MongoDB.props
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/staticwebassets.pack.json
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/staticwebassets.build.json
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/staticwebassets.development.json
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/scopedcss/bundle/CRUD_Produtos_MongoDB.styles.css
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.csproj.CopyComplete
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/refint/CRUD_Produtos_MongoDB.dll
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.pdb
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/CRUD_Produtos_MongoDB.genruntimeconfig.cache
+/media/jannielly/Ubuntu/TCC/TCC-API's/MongoDB/CRUD_Produtos_MongoDB/CRUD_Produtos_MongoDB/obj/Debug/net6.0/ref/CRUD_Produtos_MongoDB.dll
